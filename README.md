@@ -8,4 +8,4 @@ Here I am uploading my solutions of Data Lemur
 
 | Number| Problem  | Level | Solutions
 | :---:| --- | :---: | :---: |
-| 1 | [Highest-Grossing Items [Amazon SQL Interview Question]](https://datalemur.com/questions/sql-highest-grossing). | Medium |  [Link](https://github.com/jatin7k8/LeetCode_SQL_Problem/blob/main/My_SQL_Solution/1.1270.%20All%20People%20Report%20to%20the%20Given%20Manager.sql)|
+| 1 | [Highest-Grossing Items [Amazon SQL Interview Question]](https://datalemur.com/questions/sql-highest-grossing). | Medium |  [Link](https://github.com/jatin7k8/DataLemur_SQL/blob/main/SQL%20Solutions/1.Highest-Grossing%20Items%20%5BAmazon%20SQL%20Interview%20Question%5D.sql)|
